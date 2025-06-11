@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\StringsAndRegularExpressionsMoreExercises\MoreExercises-StringsAndRegularExpressions\03-KarateStrings\bin\Debug\03-KarateStrings.exe.config
+C:\Users\Laptop\Desktop\C#\StringsAndRegularExpressionsMoreExercises\MoreExercises-StringsAndRegularExpressions\03-KarateStrings\bin\Debug\03-KarateStrings.exe
+C:\Users\Laptop\Desktop\C#\StringsAndRegularExpressionsMoreExercises\MoreExercises-StringsAndRegularExpressions\03-KarateStrings\bin\Debug\03-KarateStrings.pdb
+C:\Users\Laptop\Desktop\C#\StringsAndRegularExpressionsMoreExercises\MoreExercises-StringsAndRegularExpressions\03-KarateStrings\obj\Debug\03-KarateStrings.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\StringsAndRegularExpressionsMoreExercises\MoreExercises-StringsAndRegularExpressions\03-KarateStrings\obj\Debug\03-KarateStrings.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\StringsAndRegularExpressionsMoreExercises\MoreExercises-StringsAndRegularExpressions\03-KarateStrings\obj\Debug\03-KarateStrings.exe
+C:\Users\Laptop\Desktop\C#\StringsAndRegularExpressionsMoreExercises\MoreExercises-StringsAndRegularExpressions\03-KarateStrings\obj\Debug\03-KarateStrings.pdb
