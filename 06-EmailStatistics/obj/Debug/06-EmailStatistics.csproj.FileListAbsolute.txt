@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\StringsAndRegularExpressionsMoreExercises\MoreExercises-StringsAndRegularExpressions\06-EmailStatistics\bin\Debug\06-EmailStatistics.exe.config
+C:\Users\Laptop\Desktop\C#\StringsAndRegularExpressionsMoreExercises\MoreExercises-StringsAndRegularExpressions\06-EmailStatistics\bin\Debug\06-EmailStatistics.exe
+C:\Users\Laptop\Desktop\C#\StringsAndRegularExpressionsMoreExercises\MoreExercises-StringsAndRegularExpressions\06-EmailStatistics\bin\Debug\06-EmailStatistics.pdb
+C:\Users\Laptop\Desktop\C#\StringsAndRegularExpressionsMoreExercises\MoreExercises-StringsAndRegularExpressions\06-EmailStatistics\obj\Debug\06-EmailStatistics.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\StringsAndRegularExpressionsMoreExercises\MoreExercises-StringsAndRegularExpressions\06-EmailStatistics\obj\Debug\06-EmailStatistics.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\StringsAndRegularExpressionsMoreExercises\MoreExercises-StringsAndRegularExpressions\06-EmailStatistics\obj\Debug\06-EmailStatistics.exe
+C:\Users\Laptop\Desktop\C#\StringsAndRegularExpressionsMoreExercises\MoreExercises-StringsAndRegularExpressions\06-EmailStatistics\obj\Debug\06-EmailStatistics.pdb
