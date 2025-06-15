@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\StringsAndRegularExpressionsMoreExercises\MoreExercises-StringsAndRegularExpressions\05-OnlyLetters-2.0\bin\Debug\05-OnlyLetters-2.0.exe.config
+C:\Users\Laptop\Desktop\C#\StringsAndRegularExpressionsMoreExercises\MoreExercises-StringsAndRegularExpressions\05-OnlyLetters-2.0\bin\Debug\05-OnlyLetters-2.0.exe
+C:\Users\Laptop\Desktop\C#\StringsAndRegularExpressionsMoreExercises\MoreExercises-StringsAndRegularExpressions\05-OnlyLetters-2.0\bin\Debug\05-OnlyLetters-2.0.pdb
+C:\Users\Laptop\Desktop\C#\StringsAndRegularExpressionsMoreExercises\MoreExercises-StringsAndRegularExpressions\05-OnlyLetters-2.0\obj\Debug\05-OnlyLetters-2.0.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\StringsAndRegularExpressionsMoreExercises\MoreExercises-StringsAndRegularExpressions\05-OnlyLetters-2.0\obj\Debug\05-OnlyLetters-2.0.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\StringsAndRegularExpressionsMoreExercises\MoreExercises-StringsAndRegularExpressions\05-OnlyLetters-2.0\obj\Debug\05-OnlyLetters-2.0.exe
+C:\Users\Laptop\Desktop\C#\StringsAndRegularExpressionsMoreExercises\MoreExercises-StringsAndRegularExpressions\05-OnlyLetters-2.0\obj\Debug\05-OnlyLetters-2.0.pdb
