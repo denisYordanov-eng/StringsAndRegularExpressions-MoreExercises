@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\StringsAndRegularExpressionsMoreExercises\MoreExercises-StringsAndRegularExpressions\08-Mines\bin\Debug\08-Mines.exe.config
+C:\Users\Laptop\Desktop\C#\StringsAndRegularExpressionsMoreExercises\MoreExercises-StringsAndRegularExpressions\08-Mines\bin\Debug\08-Mines.exe
+C:\Users\Laptop\Desktop\C#\StringsAndRegularExpressionsMoreExercises\MoreExercises-StringsAndRegularExpressions\08-Mines\bin\Debug\08-Mines.pdb
+C:\Users\Laptop\Desktop\C#\StringsAndRegularExpressionsMoreExercises\MoreExercises-StringsAndRegularExpressions\08-Mines\obj\Debug\08-Mines.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\StringsAndRegularExpressionsMoreExercises\MoreExercises-StringsAndRegularExpressions\08-Mines\obj\Debug\08-Mines.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\StringsAndRegularExpressionsMoreExercises\MoreExercises-StringsAndRegularExpressions\08-Mines\obj\Debug\08-Mines.exe
+C:\Users\Laptop\Desktop\C#\StringsAndRegularExpressionsMoreExercises\MoreExercises-StringsAndRegularExpressions\08-Mines\obj\Debug\08-Mines.pdb
