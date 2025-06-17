@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\StringsAndRegularExpressionsMoreExercises\MoreExercises-StringsAndRegularExpressions\07-Hideout\bin\Debug\07-Hideout.exe.config
+C:\Users\Laptop\Desktop\C#\StringsAndRegularExpressionsMoreExercises\MoreExercises-StringsAndRegularExpressions\07-Hideout\bin\Debug\07-Hideout.exe
+C:\Users\Laptop\Desktop\C#\StringsAndRegularExpressionsMoreExercises\MoreExercises-StringsAndRegularExpressions\07-Hideout\bin\Debug\07-Hideout.pdb
+C:\Users\Laptop\Desktop\C#\StringsAndRegularExpressionsMoreExercises\MoreExercises-StringsAndRegularExpressions\07-Hideout\obj\Debug\07-Hideout.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\StringsAndRegularExpressionsMoreExercises\MoreExercises-StringsAndRegularExpressions\07-Hideout\obj\Debug\07-Hideout.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\StringsAndRegularExpressionsMoreExercises\MoreExercises-StringsAndRegularExpressions\07-Hideout\obj\Debug\07-Hideout.exe
+C:\Users\Laptop\Desktop\C#\StringsAndRegularExpressionsMoreExercises\MoreExercises-StringsAndRegularExpressions\07-Hideout\obj\Debug\07-Hideout.pdb
